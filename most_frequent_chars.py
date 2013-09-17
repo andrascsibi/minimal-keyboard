@@ -1,5 +1,6 @@
 #!/usr/bin/env python2.6
 
+# I got these values from Wikipedia
 english = [
   ('e', 12.70),
   ('t', 9.056),
